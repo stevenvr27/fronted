@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --color-fondo: rgba(147, 147, 151, 0.199);  
+  }
+  
+  body {
+    background-color: var(--color-fondo);  
+  }
+  
